@@ -17,5 +17,6 @@ git push origine main or master
 ## Creation d'une branche
 ***bash
 git checkout -b NOM_BRANCHE
+git checkout NOM_BRANCH
 ***
 
