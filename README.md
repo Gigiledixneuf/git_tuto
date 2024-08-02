@@ -6,6 +6,7 @@
 git init
 git remote add origin SSH_REPOT 
 ***
+
 ## Envoyer un commit sur le repos distant
 ***bash
 git add
