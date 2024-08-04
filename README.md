@@ -20,3 +20,9 @@ git checkout -b NOM_BRANCHE
 git checkout NOM_BRANCH
 ***
 
+## Pour merger une branche
+***bash
+git checkout main
+git merge develop 
+***
+
