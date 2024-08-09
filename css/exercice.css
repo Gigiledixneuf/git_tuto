@@ -1,0 +1,48 @@
+a{
+    color: skyblue;
+}
+a:hover{
+    color: rgb(163, 105, 55);
+}
+.greencolor{
+    color: green;
+}
+.amazon-button{
+    background-color: rgba(255, 193, 47, 1);
+    color: black;
+    height: 36px;
+    width: 190px;
+    border: none;
+    border-style: solid;
+    border-color: rgba(255, 193, 47, 1);
+    border-radius: 18px;
+    font-size: 15px;
+    cursor: pointer;
+    transition:  background-color 0.20s,  border-color 0.15s ;
+    margin-right: 8px;
+}
+.amazon-button:hover{
+    background-color: rgb(215, 165, 49);
+    border-color:  rgb(215, 165, 49);;
+
+}
+.amazon-button:active{
+    opacity: 0.5;
+}
+
+.amazon-buy-button{
+    background-color: rgb(210, 137, 77);
+    color: black;
+    border: none;
+    border-radius: 18px;
+    border-color:  rgb(224, 164, 54);
+    height: 36px;
+    width: 150px;
+}
+.amazon-buy-button:hover{
+    background-color: rgb(176, 88, 17);
+  
+}
+.amazon-buy-button:active{
+    opacity: 0.5;
+}

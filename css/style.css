@@ -1,0 +1,177 @@
+.subscribe-button{
+    background-color: rgba(172, 24, 24, 0.845);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    cursor: pointer;
+    margin-right: 8px;
+    border-radius: 2px;
+    transition: opacity 0.15s;
+}
+.subscribe-button:hover{
+    opacity: 0.7;
+}
+.subscribe-button:active{
+    opacity: 0.9;
+}
+
+.join-button{
+    background-color: white;
+    color: rgb(41, 118, 211);
+    border-radius: 2px;
+    border-color: rgb(41, 118, 211);
+    height: 36px;
+    width: 62px;
+    cursor: pointer;
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 8px;
+    transition: background-color 0.15s, color 0.15s;
+}
+.join-button:hover{
+    background-color:rgb(41, 118, 211);
+    color: white;
+}
+.jion-bitton:active{
+    opacity: 0.9;
+}
+
+.twitte-button{
+    background-color:rgb(2, 150, 255);
+    color:white;
+    height: 36px;
+    width: 100px;
+    border-radius: 18px;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+   
+}
+.twitte-button:hover{
+    box-shadow: 10px 10px 10px rgb(0, 0, 0, 0.6);
+}
+
+.uber-button{
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    height: 36px;
+    width: 105px;
+    border: none;
+    border-style: solid;
+    border-color: black;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.uber-button:hover{
+    opacity: 0.7;
+}
+
+.amazon-button{
+    background-color: rgba(255, 193, 47, 1);
+    color: black;
+    height: 36px;
+    width: 190px;
+    border: none;
+    border-style: solid;
+    border-color: rgba(255, 193, 47, 1);
+    border-radius: 18px;
+    font-size: 15px;
+    cursor: pointer;
+    transition:  background-color 0.20s,  border-color 0.15s ;
+}
+.amazon-button:hover{
+    background-color: rgb(215, 165, 49);
+    border-color:  rgb(215, 165, 49);;
+}
+
+.github-button{
+    background-color: rgba(46, 160, 67, 1);
+    color: white;
+    border: none;
+    border-color: rgba(46, 160, 67, 1);
+    border-radius: 4px;
+    height: 36px;
+    width: 90px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+}
+.github-button:hover{
+    box-shadow: 0 5px 5px rgba(172, 167, 167, 0.7);
+}
+
+.bootstrap-get-button{
+    background-color: rgba(86, 61, 124, 1);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    height: 40px;
+    width: 110px;
+    font-size: 14px;
+    margin-right: 8px;
+    transition:  background-color 0.15s;
+
+}
+.bootstrap-get-button:hover{
+    background-color: rgb(83, 22, 141);
+}
+
+.bootsrap-download-button{
+    background-color: white;
+    color: rgba(108, 117, 125, 1); 
+    border-color:  rgba(108, 117, 125, 1); 
+    border: none;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    font-weight: bold;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0.15s;
+}
+.bootsrap-download-button:hover{
+    background-color:  rgba(108, 117, 125, 1); ;
+    color: white;
+}
+
+.linkedln-button{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    border-radius: 18px;
+    border-color: rgb(10, 102, 194);
+    width: 200px;
+    height: 36px;
+    cursor: pointer;
+    transition: background-color 0.14s ;
+    margin-right: 8px;
+}
+.linkedln-button:hover{
+    background-color: rgb(0, 65, 130);
+
+}
+
+.linkedln-save-button{
+    background-color: white;
+    color: rgb(10, 102, 194) ;
+    border: none;
+    border-style: solid;
+    border-color: rgb(10, 102, 194);
+    border-width: 1px;
+    border-radius: 18px;
+    font-weight: bold;
+    width: 80px;
+    height: 36px;
+    cursor: pointer;
+    transition:  background-color 0.15s;
+
+}
+.linkedln-save-button:hover{
+    background-color: rgb(225, 238, 245);
+}
