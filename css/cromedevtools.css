@@ -1,0 +1,83 @@
+/* Debut exercice 1 */
+.back-button{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+.next-button{
+    padding: 5px 3px 5px 3px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+a{
+    padding: 0 3px 0 3px;
+    color: black;
+}
+a:hover{
+    color: brown;
+}
+/* Exercice 1 fin */
+
+/* Debut exercice 2 */
+.stretch-button{
+    background-color: rgb(12, 126, 12);
+    color: white;
+    border: none;
+    border-style: solid;
+    border-color: rgb(12, 126, 12);
+    border-width: 1px;
+    padding-top: 6px;
+    padding-right: 10px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    margin-left: 6px;
+    transition: padding 0.40s, opacity 0.15s;
+    cursor: pointer;
+}
+.stretch-button:hover{
+    padding: 18px 40px 18px 40px ;
+}
+.stretch-button:active{
+    opacity: 0.5;
+}
+/* Fin de l'exercice deux */
+
+/* Debut exercice 3 */
+.shadow-button{
+    background-color:rgb(12, 126, 12) ;
+    color: white;
+    border: none;
+    border-color: rgb(12, 126, 12);
+    border-style:solid ;
+    padding: 5px 8px 5px 8px;
+    margin-left: 5px;
+    box-shadow: 3px 5px 10px rgba(77, 74, 74, 0.9);
+    cursor: pointer;
+    transition: padding 0.15s, margin 0.15s;
+}
+.shadow-button:active{
+    padding: 5px 8px 5px 8px;
+    margin: 2px 0 0 10px;
+    box-shadow: 0 0 0 beige;
+}
+/* Fin exercice 3 */
+/* Debut exercice 4 */
+.one-two-three-button{
+    background-color:rgb(12, 126, 12);
+    color: white;
+    border: none;
+    border-style: solid;
+    border-color: rgb(12, 126, 12);
+    padding: 4px 8px 4px 8px;
+    margin: 0 10px 0 15px;
+    cursor: pointer;
+    transition: padding 0.15s, margin 0.15s;
+}
+.one-two-three-button:hover{
+    padding: 4px 15px 4px 15px;
+    margin: 0 2px 10px 10px;
+}
+/* Fin ecercice 4 */
