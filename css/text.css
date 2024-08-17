@@ -1,0 +1,229 @@
+/* number style */
+.number-text{
+    text-decoration: underline;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* end number style */
+
+/* debut exercice 1 */
+.tahoma-font{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 0px;
+    font-weight: bold;
+}
+/* fin exercice 1 */
+
+/* debut exercice 2 */
+.arial-font{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.arial-red-color{
+    color: rgb(218, 33, 33);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 14px;
+    margin-top: 2px;
+}
+.arial-red-color:hover{
+    color: rgb(207, 85, 85);
+}
+/* fin exercice 2 */
+
+/* debut exercice 3 */
+.verdana-font-title{
+   font-family: Verdana, Geneva, Tahoma, sans-serif ; 
+   font-size: 16px;
+   font-weight: bold;
+   margin-bottom: 0;
+}
+.verdana-font-second{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: rgb(140, 140, 140);
+    margin-top: 0;
+    padding-top: 1px;
+}
+.verdana-font-comment{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    padding-top: 8px;
+    width: 270px;
+    margin-bottom: 20px;
+}
+.verdana-font-button{
+    background-color: green;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    border-style: solid;
+    border-width: 1px;
+    width: 105px;
+    height: 30px;
+    border-radius: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    cursor: pointer;
+    transition: opacity 0.15s, box-shadow 0.15s, color 0.15s;
+    margin-bottom: 15px;
+}
+.verdana-font-button:hover{
+    box-shadow: 4px 4px 1px rgba(167, 167, 167, 0.6);
+    color: black;
+    border: none;
+}
+.verdana-font-button:active{
+    opacity: 0.7;
+}
+/* fin de l'exerci 3 */
+
+/* debut exerci 4 */
+.arial-font-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    font-weight:  bold;
+    margin-bottom: 0;
+}
+.arial-font-comment{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+}
+.arial-font-link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(36, 36, 180);
+    text-align: center;
+}
+/* Fin exercice 4 */
+/* Style chalenge title */
+.chalenge-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+/* fin style chalege title */
+/* Chalenge 1 debut */
+.orange-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(184, 120, 2);
+    text-align: center;
+    margin-bottom: 0 ;
+}
+.arial-title{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+.corps-titles{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 0;
+
+}
+.price{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(54, 52, 52);
+}
+.buy-button{
+    background-color: rgb(6, 95, 212);
+    color: white;
+    border: none;
+    border-style: solid;
+    border-width: 1px;
+    border-color:  rgb(6, 95, 212);
+    margin-left: 46%;
+    height: 30px;
+    width: 50px;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0.15s;
+}
+.buy-button:hover{
+    background-color: white;
+    color: rgb(6, 95, 212);
+}
+.buy-button:active{
+    opacity: 0.8;
+    background-color: rgb(40, 115, 214);
+    color: white;
+}
+/* fin chalenge 1 */
+/* debut chalenge 2 */
+.nbr-title{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0;
+}
+.nbr-usd{
+    font-size: 17px;
+    color: rgba(41, 41, 41, 0.6);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nbr-stat{
+    color: rgb(44, 150, 44);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: 7px;
+    margin-bottom: 0;
+}
+.nbr-nbr{
+    color: rgb(54, 52, 52);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    margin-left: 3px;
+    margin-top: 9px;
+}
+.red-color{
+    color: rgb(207, 85, 85);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    margin-left: 2px;
+}
+/* fin chanlenge 2 */
+/* debut chalenge 3 */
+.first-p{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.first-span{
+    color: rgb(140, 140, 140);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    margin-bottom: 0;
+    
+}
+.second-p{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    margin-top: 7px;
+}
+.third-p{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 6px;
+    
+}
+.second-span{
+    color: rgb(40, 115, 214);
+}
