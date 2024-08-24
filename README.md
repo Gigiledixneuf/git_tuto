@@ -34,6 +34,6 @@ On a rajouté des fichier html et css pour s'exercer, on a travailler sur les bu
 on a rajouté des fichiers pour l'exercice chalenge button lecon 3
 
 ## Exercice text 
-rajout des fichiers pour l'exercice text et le chalenge 
+rajout des fichiers pour l'exercice text et le chalenge
 
 
