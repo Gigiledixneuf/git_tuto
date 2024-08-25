@@ -1,0 +1,104 @@
+.number-text{
+    text-decoration: underline;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Exercice 1 */
+.input-name{
+    display: block;
+    margin-bottom: 5px;
+}
+.text-display{
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
+.btn-display{
+    border: none;
+    border-color: blue;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    color: aliceblue;
+    width: 50px;
+    height: 30px;
+    background-color: blue;
+    cursor: pointer;
+}
+/* End exercice 1 */
+/* Start exercce 2 */
+.img-google{
+    width: 200px;
+    display: block;
+    margin-left:40%;
+    margin-bottom: 25px;
+}
+.input-google{
+    border: none;
+    border-radius: 200px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 6px;
+    width: 450px;
+    font-size: 16px;
+    margin-left: 30%;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+/* End exercice 2s */
+/* Style challenge */
+/* Exerci 1 */
+.input-names{
+    padding: 8px 5px 8px 5px;
+    border-radius: 5px;
+    border-width: 1px;
+}
+.input-mails{
+    display: block;
+    padding: 8px 5px 8px 5px;
+    border-radius: 5px;
+    border-width: 1px;
+    margin-top: 10px;
+    width: 340px;
+    margin-bottom: 10px;
+}
+.btn-sing{
+    width: 350px;
+    height: 40px;
+    color: white; 
+    background-color: rgb(10, 102, 194);
+    border-radius: 4px;
+    border-color: rgb(10, 102, 194);
+    border: none;
+}
+/* End exercice 1 */
+/* Start exeercie 2 */
+.title-display{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.input-uber{
+    display: block;
+    background-color: rgb(219, 218, 218);
+    padding: 8px 16px 8px ;
+    margin: 0 0 8px 0;
+    border: none;
+    width: 340px;
+    border-radius: 2px;
+}
+.btn-uber{
+    margin-top: 25px;
+    color: white;
+    background-color: rgb(23, 23, 23);
+    width: 110px;
+    height: 35px;
+    border: none;
+}
+.btn-uber2{
+    margin-top: 25px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(219, 218, 218);
+    width: 120px;
+    height: 35px;
+    border: none;
+    margin-left: 20px;
+}
