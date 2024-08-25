@@ -49,6 +49,18 @@ Rajout du fichier youtube.html et youtube.css et les images à utiliser.
 on a rajouté des fichiers pour l'exercice chalenge button lecon 3
 
 ## Exercice text 
+**
 rajout des fichiers pour l'exercice text et le chalenge 
+**
+## Exercice image
+** On a fait des exercices pour se familiariser et styliser les images dans ce cours 
+**
 
+## Exercice display
+** On a fait des exercice sur quelques types de display (block, inline-block et inline) pour un debut
+**
+
+## Exercice div
+** on a fait des exercice pour maitriser la balise "div" qui est super utiliser en html-css
+**
 
