@@ -72,7 +72,7 @@
     margin-bottom: 15px;
 }
 .verdana-font-button:hover{
-    box-shadow: 4px 4px 1px rgba(167, 167, 167, 0.6);
+    box-shadow: 4px 4px 1px rgba(198, 195, 195, 0.6);
     color: black;
     border: none;
 }
@@ -148,9 +148,9 @@
     border-style: solid;
     border-width: 1px;
     border-color:  rgb(6, 95, 212);
-    margin-left: 46%;
+    margin-left: 48%;
     height: 30px;
-    width: 50px;
+    width: 60px;
     border-radius: 30px;
     cursor: pointer;
     transition: background-color 0.15s, color 0.15s;
